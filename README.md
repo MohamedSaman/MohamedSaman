@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%" />
-  <h1>Hi there, I'm [Your Name]</h1>
+  <h1>Hi there, I'm Saman</h1>
   
   <h3>A Passionate Full-Stack Developer from Sri Lanka 🇱🇰</h3>
   
