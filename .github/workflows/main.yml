@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3  # <-- THE FIX IS HERE
         id: snake-gif
         with:
           github_user_name: MohamedSaman
